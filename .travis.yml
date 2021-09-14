@@ -2,6 +2,7 @@ language: go
 go:
 - '1.15'
 - '1.16'
+- '1.17'
 install:
 - make install
 script:
